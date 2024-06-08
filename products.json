@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,    
+        "name":"Apple iPhone 11",
+        "price": 70000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Apple iPhone 11 PRO",
+        "price": 80000,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Apple iPhone 11 PRO MAX",
+        "price":  100000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Apple iPhone 15 PRO MAX",
+        "price": 180000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" HP",
+        "price": 80000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" ASUS Notebooks",
+        "price": 70000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Apple Laptop ",
+        "price": 65060,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Micromax Canvas",
+        "price": 150000,
+        "image": "image/8.png"
+    },
+    {
+        "id": 9,
+        "name":" Shoes Casual",
+        "price": 2100,
+        "image": "image/9.png"
+    },
+    {
+        "id": 10,
+        "name":" Shoes ",
+        "price": 2300,
+        "image": "image/10.png"
+    },
+    {
+        "id": 11,
+        "name":" Shoes BLACK",
+        "price": 2500,
+        "image": "image/11.png"
+    },
+    {
+        "id": 12,
+        "name":"Shoes Running Shoes ",
+        "price": 2000,
+        "image": "image/12.png"
+    }
+
+]
