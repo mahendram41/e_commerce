@@ -1,75 +1,114 @@
 [
     {
         "id": 1,    
-        "name":"Apple iPhone 11",
-        "price": 70000,
-        "image": "image/1.png"
+        "name": "Apple iPhone 11",
+        "price": 75000,
+        "image": "image/1.png",
+        "category": "Smartphone"
     },
     {
         "id": 2,
-        "name":" Apple iPhone 11 PRO",
-        "price": 80000,
-        "image": "image/2.png"
+        "name": "Apple iPhone 11 Pro",
+        "price": 85000,
+        "image": "image/2.png",
+        "category": "Smartphone"
     },
     {
         "id": 3,
-        "name":" Apple iPhone 11 PRO MAX",
-        "price":  100000,
-        "image": "image/3.png"
+        "name": "Apple iPhone 11 Pro Max",
+        "price": 105000,
+        "image": "image/3.png",
+        "category": "Smartphone"
     },
     {
         "id": 4,
-        "name":" Apple iPhone 15 PRO MAX",
-        "price": 180000,
-        "image": "image/4.png"
-    },
-    {
-        "id": 5,
-        "name":" HP",
-        "price": 80000,
-        "image": "image/5.png"
-    },
-    {
-        "id": 6,
-        "name":" ASUS Notebooks",
-        "price": 70000,
-        "image": "image/6.png"
-    },
-    {
-        "id": 7,
-        "name":" Apple Laptop ",
-        "price": 65060,
-        "image": "image/7.png"
+        "name": "Apple iPhone 15 Pro Max",
+        "price": 185000,
+        "image": "image/4.png",
+        "category": "Smartphone"
     },
     {
         "id": 8,
-        "name":" Micromax Canvas",
-        "price": 150000,
-        "image": "image/8.png"
+        "name": "Micromax Canvas",
+        "price": 155000,
+        "image": "image/8.png",
+        "category": "Smartphone"
+    },
+    {
+        "id": 13,
+        "name": "Samsung Galaxy S21",
+        "price": 95000,
+        "image": "image/13.png",
+        "category": "Smartphone"
+    },
+    {
+        "id": 5,
+        "name": "HP Laptop",
+        "price": 85000,
+        "image": "image/5.png",
+        "category": "Laptop"
+    },
+    {
+        "id": 6,
+        "name": "ASUS Notebook",
+        "price": 75000,
+        "image": "image/6.png",
+        "category": "Laptop"
+    },
+    {
+        "id": 7,
+        "name": "Apple Laptop",
+        "price": 70000,
+        "image": "image/7.png",
+        "category": "Laptop"
+    },
+    {
+        "id": 14,
+        "name": "Dell XPS 13",
+        "price": 125000,
+        "image": "image/14.png",
+        "category": "Laptop"
     },
     {
         "id": 9,
-        "name":" Shoes Casual",
-        "price": 2100,
-        "image": "image/9.png"
+        "name": "Casual Shoes",
+        "price": 2500,
+        "image": "image/9.png",
+        "category": "Footwear"
     },
     {
         "id": 10,
-        "name":" Shoes ",
-        "price": 2300,
-        "image": "image/10.png"
+        "name": "Shoes",
+        "price": 2700,
+        "image": "image/10.png",
+        "category": "Footwear"
     },
     {
         "id": 11,
-        "name":" Shoes BLACK",
-        "price": 2500,
-        "image": "image/11.png"
+        "name": "Black Shoes",
+        "price": 3000,
+        "image": "image/11.png",
+        "category": "Footwear"
     },
     {
         "id": 12,
-        "name":"Shoes Running Shoes ",
-        "price": 2000,
-        "image": "image/12.png"
+        "name": "Running Shoes",
+        "price": 2200,
+        "image": "image/12.png",
+        "category": "Footwear"
+    },
+    {
+        "id": 15,
+        "name": "Nike Running Shoes",
+        "price": 3500,
+        "image": "image/15.png",
+        "category": "Footwear"
+    },
+    {
+        "id": 16,
+        "name": "Sony WH-1000XM4",
+        "price": 27000,
+        "image": "image/16.png",
+        "category": "Headphones"
     }
-
 ]
